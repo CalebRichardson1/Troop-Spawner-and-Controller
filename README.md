@@ -38,7 +38,7 @@ Add the TroopSpawner to your spawner gameobject: <br/>
 <img src="https://i.imgur.com/jEYsFvp.png" height="60%" width="60%" alt="Object Spawner Steps"/>
 <br />
 <br />
-Populate the troops to spawn list: <br/>
+Populate the troops to spawn list, only the first 5 (0-4) will be able to be spawned: <br/>
 <img src=https://i.imgur.com/RAUkuW0.png height="60%" width="60%" alt="Object Spawner Steps"/>
 <br />
 <br />
