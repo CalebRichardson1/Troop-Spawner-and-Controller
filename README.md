@@ -15,8 +15,8 @@ Project consists of a Troop scriptable object with a custom editor that allows f
 
 <h2>Libraries</h2>
 
-- Unity Engine
-- Unity Editor
+- UnityEngine
+- UnityEditor
 - System.Collections
 - System.Collections.Generic
 
